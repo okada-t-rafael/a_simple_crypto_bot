@@ -9,6 +9,10 @@ My tentative of make money using automated trade bot for crypto space. =)
 
 - Can be set to follow technical analysis strategies.
 
+- Base strategy is a dummy one.
+
 Disclamer:
 
 - Actually this project has learning purposes. Do not use it for any other reason besides education.
+
+- Never inform anyone your private keys!
