@@ -15,4 +15,4 @@ Disclamer:
 
 - These codes only implement techniques to obscure your keys. Never inform anyone your private keys!
 
-- BitfinexAPI code inspared in twobeeb/BitfinexAPI for C#.
+- BitfinexAPI code inspired in twobeeb/BitfinexAPI for C#.
