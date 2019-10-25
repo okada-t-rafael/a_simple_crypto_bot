@@ -14,3 +14,5 @@ Disclamer:
 - Base strategy is a dummy one. Make your own!
 
 - These codes only implement techniques to obscure your keys. Never inform anyone your private keys!
+
+- BitfinexAPI code inspared in twobeeb/BitfinexAPI for C#.
