@@ -1,4 +1,4 @@
-# my_turn_on_crypto
+# a_simple_crypto_bot
 My attempt to make money using automated trade bot in the crypto space. =)
 
 - Bot for automating cryptocurrency margin trades using Bifinex/Ethfinex's api.
